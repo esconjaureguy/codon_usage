@@ -1,1 +1,1 @@
-El archivo contiene datos sobre el uso de codones en diferentes especies, con varias columnas que representan frecuencias de codones (como "UUU", "UUC", etc.) y otra información relacionada (por ejemplo, "Kingdom", "DNAtype", "SpeciesID").
+
